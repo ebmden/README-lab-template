@@ -1,11 +1,19 @@
 # Lab _
+
 **DUE: _**
+
 [Link to Lab](https://csse.msoe.us/cs1021/lab2/)
 
+
 ## Requirments
-- [ ] 
-- [ ] 
-- [ ] 
+- [X] ...
+- [ ] ...
+- [ ] ...
+
+## Questions for professor
+- ...
+
+***
 
 ## Important git commands
 
